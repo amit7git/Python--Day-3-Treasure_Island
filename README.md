@@ -1,52 +1,63 @@
-# 🏝️ Day 3 - Treasure Island Adventure
+# Day 3 – Treasure Island Adventure 🏝️
 
-## 📖 Project Overview
-**Treasure Island Adventure** is an interactive, text-based Python game where the player makes choices to navigate through a mysterious island in search of hidden treasure. Each decision affects the outcome, leading to either victory or failure.
-
-This project focuses on understanding decision-making in programs using conditional logic.
+Part of my **100 Days of Python Projects** challenge.  
+This project recreates the classic Python Treasure Island game using a terminal-style web interface.
 
 ---
 
-## 🧠 What I Learned
-- **Conditional Statements:** Used `if`, `elif`, and `else` to control the flow of the game based on user choices.
-- **Logic and Flow Control:** Designed multiple paths and endings depending on player decisions.
-- **User Input Handling:** Collected and evaluated user input to guide the story progression.
+## 🚀 Project Overview
+Treasure Island Adventure is an interactive, text-based game where the player makes choices to navigate through a mysterious island in search of hidden treasure.  
+Each decision affects the outcome, leading to either victory or failure.
+
+This project focuses on decision-making using conditional logic.
 
 ---
 
-## ⚙️ How It Works
-1. The game presents a storyline and asks the player to make choices.
-2. Each choice leads to a different scenario.
-3. Based on the decisions, the player either:
-   - Finds the treasure 🏆
-   - Or meets an unfortunate ending 💀
+## 📚 What I Learned
+- Using conditional logic to control program flow
+- Designing multiple paths and outcomes based on user choices
+- Translating Python `if / elif / else` logic into JavaScript
+- Handling user input dynamically in a terminal-style UI
+- Structuring branching game logic clearly
 
 ---
 
-## ✨ Code Highlights
-- Use of nested `if` / `elif` / `else` statements
-- Text-based interaction using `print()` and `input()`
-- Simple game logic with multiple outcomes
+## 🛠 How It Works
+1. The game presents a storyline and prompts the user for choices  
+2. Each choice leads to a different scenario  
+3. Based on decisions, the player either:
+   - Finds the treasure 🏆  
+   - Or reaches a game-over ending 💀  
 
 ---
 
-## ▶️ Example Gameplay
+## 💡 Code Highlights
+- Use of nested conditional statements for branching paths
+- Step-by-step user input handling
+- Text-based storytelling with multiple endings
+- Clear separation of game logic and UI
 
-    Welcome to Treasure Island.
-    Your mission is to find the treasure.
-    You're at a cross road. Where do you want to go? Left or Right?
-    left
-    You come to a lake. Swim or Wait?
-    wait
-    You arrive at the island unharmed. Choose a door: Red, Blue, or Yellow.
-    yellow
-    You found the treasure! You Win! 🎉
+---
 
+## 🧪 Example
+      Welcome to Treasure Island.
+      Your mission is to find the treasure.
+      You're at a cross road. Where do you want to go? Left or Right?
+      left
+      You come to a lake. Swim or Wait?
+      wait
+      You arrive at the island unharmed. Choose a door: Red, Blue, or Yellow.
+      yellow
+      You found the treasure! You Win! 🎉
 
 ---
 
 ## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/amit7git/python.git
+1. Open the project using the **Live Demo link**, or  
+2. Clone the repository and open `index.html` in a browser  
+3. Click **Run** and follow the on-screen prompts  
 
+---
+
+## 🌐 Live Demo
+https://amit7git.github.io/Python--Day-3-Treasure_Island/
